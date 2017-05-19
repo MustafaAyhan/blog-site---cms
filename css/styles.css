@@ -1,0 +1,11 @@
+.pager li .active_link {
+    background-color: #31708f !important;
+    color: #f5f5f5;
+    text-shadow: 0 0 6px black;
+}
+
+
+.form-control.pwd {
+    background: black !important;
+    width: 30%;
+}
